@@ -13,10 +13,12 @@
   <img align="center" alt="omar-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="omar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="omar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <div  style="display: inline_block; margin-left:3em">
+   <a href="https://www.facebook.com/omar9.guerrero/" target="_blank"><img src="https://i.ibb.co/jyp12Wf/image-1.jpg"></a> 
+    <a href="https://www.instagram.com/omargpax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
+   <a href = "mailto:contato@davidprali27"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    </div>
 </div>
 
-<div  style="display: inline_block; margin-left:3em">
-  <a href="https://www.facebook.com/omar9.guerrero/" target="_blank"><img src="https://i.ibb.co/jyp12Wf/image-1.jpg"></a> 
-  <a href="https://www.instagram.com/omargpax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@davidprali27"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
