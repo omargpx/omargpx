@@ -1,7 +1,7 @@
 # Hola soy omar!🐧 
 
 > desarrollando por diversion
-  
+  ![text](https://i.giphy.com/media/l41Yg7fIYr4IkbhQY/giphy.webp)
 <div align="left">
   <a href="https://github.com/omarguerrer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarguerrer&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
