@@ -7,12 +7,13 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="omar-Js" height="30" width="40" src="https://github.com/omarguerrer/CRUD-minimalista-js">
-  <img align="center" alt="omar-Ts" height="30" width="40" src="">
-  <img align="center" alt="omar-Angular" height="30" width="40" src="">
-  <img align="center" alt="omar-Java" height="30" width="40" src="https://github.com/omarguerrer/VirtualTravels">
-  <img align="center" alt="omar-HTML" height="30" width="40" src="https://github.com/omarguerrer/home_responsive">
-  <img align="center" alt="omar-CSS" height="30" width="40" src="https://github.com/omarguerrer/Kundu-Studio">
+  <img align="center" alt="omar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="omar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="omar-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="omar-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="omar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="omar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br>
 </div>
 
 
