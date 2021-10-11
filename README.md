@@ -1,7 +1,7 @@
 # Hola soy omar!🐧 
 
 > desarrollando por diversion 
-> <img style="display: inline_block" alt="relax" width="100" src="https://i.giphy.com/media/l41Yg7fIYr4IkbhQY/giphy.webp"/>
+* <img style="display: inline_block" alt="relax" width="100" src="https://i.giphy.com/media/l41Yg7fIYr4IkbhQY/giphy.webp"/>
 
 
 <div align="left">
