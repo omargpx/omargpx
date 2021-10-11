@@ -2,5 +2,5 @@
 
 ![omarguerrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarguerrer&hide=contribs,prs)
 
-![omarguerrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![omarguerrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarguerrer&show_icons=true)
 
