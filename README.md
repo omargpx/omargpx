@@ -4,7 +4,7 @@
   <img align="left" alt="music" width="100" height="100" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
 </div>
 
-![Alt Text](https://cdn.dribbble.com/users/1242979/screenshots/7099165/media/e521bd143bf1e795af3ec725a68e273f.gif)
+![Alt Text](https://media1.giphy.com/media/3jOHFAU5Y5gFtW8UXl/giphy.gif?cid=790b7611325c0d7c45334d7d3e8406f3af923afb013eff38&rid=giphy.gif&ct=g)
   
 <div align="left">
   <a href="https://github.com/omarguerrer">
