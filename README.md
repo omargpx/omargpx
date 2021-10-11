@@ -1,5 +1,6 @@
 # Hola soy omar!🐧 
 
+> desarrollando por diversion
   
 <div align="left">
   <a href="https://github.com/omarguerrer">
