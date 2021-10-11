@@ -1,6 +1,6 @@
-# Hola soy omar
+# Hola soy omar!
 
-![omarguerrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarguerrer&hide=contribs,prs)
+[omarguerrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarguerrer&show_icons=true&theme=radical)
 
 ![omarguerrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarguerrer&show_icons=true)
 
