@@ -1,9 +1,6 @@
 # Hola soy omar!🐧 
 
-> desarrollando por diversion 
-* <img style="display: inline_block" alt="relax" width="100" src="https://i.giphy.com/media/l41Yg7fIYr4IkbhQY/giphy.webp"/>
-
-
+> desarrollando por diversion
 <div align="left">
   <a href="https://github.com/omarguerrer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarguerrer&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -38,3 +35,5 @@
   <a href="https://music.youtube.com/watch?v=yEA3qaB0dH8&list=RDAMVMyEA3qaB0dH8">
     <img align="left" alt="music stuck-u" width="130" height="120" src="https://media3.giphy.com/media/WQkr0Nb64nqaVlU7Pi/giphy.gif?cid=ecf05e476pewvfawnupbvotbi1zrohwby8u4h4suzpq67yqe&rid=giphy.gif&ct=g"/></a>
 </div>
+  
+> If You Fell Yesterday, Get Up Today - H. G. Wells
