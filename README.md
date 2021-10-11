@@ -1,6 +1,7 @@
 # Hola soy omar!
-
-descripcionn here
+<div align="left">
+  <img align="left" alt="music" width="100" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F7099165-Beautiful-Girl-Listening-To-The-Music-Animation&psig=AOvVaw2f11L91BAqnJPvk7PgcqxM&ust=1634018818870000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKCHts3YwfMCFQAAAAAdAAAAABAV"/>
+</div>
 
 <div align="left">
   <a href="https://github.com/omarguerrer">
