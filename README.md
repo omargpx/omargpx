@@ -33,5 +33,7 @@
   <a href="https://music.youtube.com/watch?v=Wv2rLZmbPMA&list=RDAMVMWv2rLZmbPMA">
   <img align="left" alt="music dive-ed_sheeran" width="120" height="120" src="https://media1.giphy.com/media/3jOHFAU5Y5gFtW8UXl/giphy.gif?cid=790b7611325c0d7c45334d7d3e8406f3af923afb013eff38&rid=giphy.gif&ct=g"/></a>
   <a href="https://music.youtube.com/watch?v=yEA3qaB0dH8&list=RDAMVMyEA3qaB0dH8">
-    <img align="left" alt="music dive-ed_sheeran" width="130" height="120" src="https://media3.giphy.com/media/WQkr0Nb64nqaVlU7Pi/giphy.gif?cid=ecf05e476pewvfawnupbvotbi1zrohwby8u4h4suzpq67yqe&rid=giphy.gif&ct=g"/></a>
+    <img align="left" alt="music stuck-u" width="130" height="120" src="https://media3.giphy.com/media/WQkr0Nb64nqaVlU7Pi/giphy.gif?cid=ecf05e476pewvfawnupbvotbi1zrohwby8u4h4suzpq67yqe&rid=giphy.gif&ct=g"/></a>
+  <a href="https://music.youtube.com/watch?v=yEA3qaB0dH8&list=RDAMVMyEA3qaB0dH8">
+    <img align="left" alt="music dive-ed_sheeran" width="130" height="120" src="https://cdn.dribbble.com/users/1242979/screenshots/7099165/media/e521bd143bf1e795af3ec725a68e273f.gif"/></a>
 </div>
