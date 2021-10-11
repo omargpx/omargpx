@@ -35,7 +35,5 @@
   <a href="https://music.youtube.com/watch?v=yEA3qaB0dH8&list=RDAMVMyEA3qaB0dH8">
     <img align="left" alt="music stuck-u" width="130" height="120" src="https://media3.giphy.com/media/WQkr0Nb64nqaVlU7Pi/giphy.gif?cid=ecf05e476pewvfawnupbvotbi1zrohwby8u4h4suzpq67yqe&rid=giphy.gif&ct=g"/></a>
 </div>
- <br>
-  <br>
-  
+ <br><br><br>
 > _If You Fell Yesterday, Get Up Today_ - **H. G. Wells**
