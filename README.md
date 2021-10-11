@@ -4,7 +4,9 @@
   <img align="left" alt="music" width="100" height="100" src="https://cdn.dribbble.com/users/1242979/screenshots/7099165/media/e521bd143bf1e795af3ec725a68e273f.gif"/>
 </div>
 
-<div align="left"> <br>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  
+<div align="left">
   <a href="https://github.com/omarguerrer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarguerrer&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="170em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarguerrer&layout=compact&langs_count=7&theme=merko"/>
