@@ -1,7 +1,7 @@
 # Hola soy omar!
 
+descripcionn here
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarguerrer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  <div>
   <a href="https://github.com/omarguerrer">
