@@ -2,6 +2,7 @@
 <div align="left">
   <a href="https://emojipedia.org/search/?q=bag">
   <img align="left" alt="music" width="120" height="120" src="https://media1.giphy.com/media/3jOHFAU5Y5gFtW8UXl/giphy.gif?cid=790b7611325c0d7c45334d7d3e8406f3af923afb013eff38&rid=giphy.gif&ct=g"/>
+    <br>
 </div>
   
 <div align="left">
