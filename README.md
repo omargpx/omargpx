@@ -34,6 +34,4 @@
   <img align="left" alt="music dive-ed_sheeran" width="120" height="120" src="https://media1.giphy.com/media/3jOHFAU5Y5gFtW8UXl/giphy.gif?cid=790b7611325c0d7c45334d7d3e8406f3af923afb013eff38&rid=giphy.gif&ct=g"/></a>
   <a href="https://music.youtube.com/watch?v=yEA3qaB0dH8&list=RDAMVMyEA3qaB0dH8">
     <img align="left" alt="music stuck-u" width="130" height="120" src="https://media3.giphy.com/media/WQkr0Nb64nqaVlU7Pi/giphy.gif?cid=ecf05e476pewvfawnupbvotbi1zrohwby8u4h4suzpq67yqe&rid=giphy.gif&ct=g"/></a>
-  <a href="https://music.youtube.com/watch?v=0yW7w8F2TVA&list=RDAMVM0yW7w8F2TVA">
-    <img align="left" alt="music dive-ed_sheeran" width="120" height="120" src="https://i.pinimg.com/originals/b8/1f/60/b81f602b8941ba8b7b50edc930c56898.gif"/></a>
 </div>
