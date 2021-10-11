@@ -19,9 +19,7 @@
 </div>
 
   <div  style="display: inline_block; margin-left:3em">
- 
-    
-    </div>
+
  
 <div> 
   <a href="https://www.facebook.com/omar9.guerrero/" target="_blank"><img src="https://i.ibb.co/jyp12Wf/image-1.jpg"></a> 
