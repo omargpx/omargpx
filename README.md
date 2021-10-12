@@ -1,12 +1,14 @@
 # Hola soy omar!🐧 
 
-Omar say: Hello World!! _desarrollando por diversion_
-----------------------------------------
+ -
+------
           ^__^
           (oo)\_______
           (__)\ 0   0 )\  *
               ||----w | \/
               ||     ||
+              
+              Omar say: Hello World!! _desarrollando por diversion_
 
 <div align="left">
   <a href="https://github.com/omarguerrer">
