@@ -1,7 +1,7 @@
 # Hola soy omar!🐧 
->----------------------------------------
->Omar say: Hello World!! _desarrollando por diversion_
->----------------------------------------
+----------------------------------------
+Omar say: Hello World!! _desarrollando por diversion_
+----------------------------------------
           ^__^
           (oo)\_______
           (__)\ 0   0 )\  *
