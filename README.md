@@ -21,6 +21,7 @@
   <img align="center" alt="omar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="omar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="omar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="omar-CSS" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img align="right" alt="omar-pic" height="150" src="https://i.ibb.co/h2dKGB0/Omar.png">
 </div>
 
