@@ -7,7 +7,7 @@
               ||----w | \/
               ||     ||
               
-              Omar say: Hello World!! _desarrollando por diversion_
+              Omar say: Hello World!! desarrollando por diversion
 
 <div align="left">
   <a href="https://github.com/omarguerrer">
