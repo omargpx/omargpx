@@ -8,12 +8,12 @@
     | |_ _ _| | |  |     |  |  / ____  \  | | \  \
     |_ _ _ _ _| |_ |     | _| /_/    \_ \ |_|  \_ \
               
-              Omar say: Hello World!! desarrollando por diversion
+      say: Hello World!! programando por diversão
 
 <div align="left">
   <a href="https://github.com/omarguerrer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omargpx&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargpx&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omargpx&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargpx&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block"><br>
