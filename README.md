@@ -8,7 +8,7 @@
     | |_ _ _| | |  |     |  |  / ____  \  | | \  \
     |_ _ _ _ _| |_ |     | _| /_/    \_ \ |_|  \_ \
               
-      say: Hello World!! programando por diversão.
+      say: Hello World!! programando por diversão
 
 <div align="left">
   <a href="https://github.com/omarguerrer">
