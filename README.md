@@ -35,9 +35,9 @@
   <a href="https://www.linkedin.com/in/omar-guerrero-pusma-760059203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-###Portafolios
+### Portafolios
 
 - _2021_ : https://omargpx.github.io/portafolio/
 - _2022_ (now): http://omardevprofile.gq
 
-> _If You Fell Yesterday, Get Up Today_ - **H. G. Wells**
+` _If You Fell Yesterday, Get Up Today_ - **H. G. Wells**`
