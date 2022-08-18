@@ -37,7 +37,7 @@
 
 ### Portafolios
 
-- _2021_ : https://omargpx.github.io/portafolio/
-- _2022_ (now): http://omardevprofile.gq
+- _2021_ : [open]([https://link-url-here.org](https://omargpx.github.io/portafolio/)) 
+- _2022_ (now): [open](http://omardevprofile.gq)
 
-` _If You Fell Yesterday, Get Up Today_ - **H. G. Wells**`
+` If You Fell Yesterday, Get Up Today - H. G. Wells`
