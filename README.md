@@ -32,19 +32,12 @@
   <a href="https://www.instagram.com/omargpax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
    <a href = "mailto:omarguerreropusma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/mYPRQhb9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/omar-guerrero-pusma-760059203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/omar-guerrero-pusma-760059203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-  
-##
 
-🎶
-<div align="left" style="display: inline_block"> <br> 
-  <a href="https://music.youtube.com/playlist?list=PL8Tr9rPEAB-iyNWwjjS-C_fCiz-MIKjcy">
-  <img align="left" alt="music dive-ed_sheeran" width="120" height="120" src="https://media1.giphy.com/media/3jOHFAU5Y5gFtW8UXl/giphy.gif?cid=790b7611325c0d7c45334d7d3e8406f3af923afb013eff38&rid=giphy.gif&ct=g"/></a>
-  <a href="https://music.youtube.com/watch?v=aN51_dkVyhc&list=PL8Tr9rPEAB-iyNWwjjS-C_fCiz-MIKjcy">
-    <img align="left" alt="music stuck-u" width="130" height="120" src="https://media3.giphy.com/media/WQkr0Nb64nqaVlU7Pi/giphy.gif?cid=ecf05e476pewvfawnupbvotbi1zrohwby8u4h4suzpq67yqe&rid=giphy.gif&ct=g"/></a>
-</div>
- <br> <br> <br> <br>
+## Portafolios
+
+> _2021_ : https://omargpx.github.io/portafolio/
+> _2022_ (now): http://omardevprofile.gq
 
 > _If You Fell Yesterday, Get Up Today_ - **H. G. Wells**
