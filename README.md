@@ -8,20 +8,21 @@
     | |_ _ _| | |  |     |  |  / ____  \  | | \  \
     |_ _ _ _ _| |_ |     | _| /_/    \_ \ |_|  \_ \
               
-      say: Hello World!! programando por diversão
+      say: Hello World!! programming for fun
 
 <div align="left">
-  <a href="https://github.com/omarguerrer">
+  <a href="https://github.com/omargpx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omargpx&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargpx&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="omar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="omar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="omar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="omar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="omar-CSS" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Spring" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img align="center" alt=".NET" width="40" src="https://img.icons8.com/?id=1BC75jFEBED6"/>
   <img align="right" alt="omar-pic" height="150" src="https://i.ibb.co/h2dKGB0/Omar.png">
 </div>
 
