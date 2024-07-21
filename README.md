@@ -34,10 +34,7 @@
   <a href="https://www.linkedin.com/in/omar-guerrero-pusma-2951462a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-### Portafolios
-
-- _2021_ : [open](https://omargpx.github.io/portafolio/)
-- _2022_ : [open](http://omardevprofile.gq)
-- _2023_ : [open](https://omargpax.pages.dev)
+### Portafolio
+[open](https://omargpax.pages.dev)
 
 ` If you can imagine it, you can program it - A. Taboada`
