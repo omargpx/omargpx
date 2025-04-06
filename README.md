@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omargpax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omargpax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omargpax&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omargpax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,5 +60,8 @@
 </picture>
 
 ###
+
+[<img alt="badge" src="https://private-user-images.githubusercontent.com/67404295/430695203-05380adb-13a6-4a11-a007-3b99edbd8604.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM5NDA5MDIsIm5iZiI6MTc0Mzk0MDYwMiwicGF0aCI6Ii82NzQwNDI5NS80MzA2OTUyMDMtMDUzODBhZGItMTNhNi00YTExLWEwMDctM2I5OWVkYmQ4NjA0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA2VDExNTY0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyN2M4YTFkZTYyZGJkYmE2ODA0YzA0OTg1ODE2MjJhZjhmZjFjYzNkNmI0NGI1ZjEyMWQ3MDc3OWE5N2FhZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.X_J-tOX9zdH3KlaKEW1CHcRihsORz7HURwlbAN8kM70"/>](https://creator-badge.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omargpax&repo=creator-badge&show_owner=true&theme=dracula&hide_border=true&disable_animations=false&show_icons=true)](https://github.com/omargpax/creator-badge)
 
 ` If you can imagine it, you can program it - A. Taboada`
